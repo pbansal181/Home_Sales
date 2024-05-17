@@ -26,6 +26,8 @@
 
 	- What is the average price of a home per "view" rating having an average home price greater than or equal to $350,000? Determine the run time for this query, and round off your 	answer to two decimal places.
 
+	![image](https://github.com/pbansal181/Home_Sales/assets/148804724/dfa31d93-83e4-48bd-b099-a9f70190abc6)
+
 6. Cache your temporary table home_sales.
 
 7. Check if your temporary table is cached.
@@ -38,14 +40,14 @@
 
     ![image](https://github.com/pbansal181/Home_Sales/assets/148804724/791121f3-bc56-4e17-a3f7-28f7779c2fc6)
 
-12. Run the last query that calculates the average price of a home per "view" rating having an average home price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
+11. Run the last query that calculates the average price of a home per "view" rating having an average home price greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
 
-13. Uncache the home_sales temporary table.
+12. Uncache the home_sales temporary table.
 
-14. Verify that the home_sales temporary table is uncached using PySpark.
+13. Verify that the home_sales temporary table is uncached using PySpark.
     
     ![image](https://github.com/pbansal181/Home_Sales/assets/148804724/dd98b79d-4214-4fef-b7e3-f988b2a08dd7)
 
 
-15. Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
+14. Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
 
